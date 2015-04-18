@@ -9,3 +9,5 @@ Online Training Resources
 - Code School Online Tutorial
 - [Coursera](https://www.coursera.org/course/pythonlearn)
 - Organizing Installfest for [Anaconda](http://continuum.io/downloads) for Scientific Computing + R
+
+Something really powerful about learning to code in a visual way (or some other sensory input)
