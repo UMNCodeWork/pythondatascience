@@ -22,3 +22,5 @@ Something really powerful about learning to code in a visual way (or some other 
 [Python for Informatics](http://www.pythonlearn.com/book.php)
 
 Cristina Videira Lopes: [Exercises in Programming Style](http://www.crcpress.com/product/isbn/9781482227376)
+
+[Johns Hopkins Data Science] Course(https://www.coursera.org/specialization/jhudatascience/1?utm_medium=courseDescripTop)
